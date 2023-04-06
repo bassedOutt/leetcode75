@@ -1,6 +1,6 @@
 package com.murmylo.volodymyr;
 
-import com.murmylo.volodymyr.Merge2SortedLists.ListNode;
+import com.murmylo.volodymyr.structures.ListNode;
 
 public class MiddleOfLinkedList {
     public ListNode middleNode(ListNode head) {

@@ -1,6 +1,6 @@
 package com.murmylo.volodymyr;
 
-import static com.murmylo.volodymyr.Merge2SortedLists.*;
+import com.murmylo.volodymyr.structures.ListNode;
 
 public class ReverseList {
     public ListNode reverseList(ListNode head){
