@@ -3,7 +3,7 @@ package com.murmylo.volodymyr.structures;
 
 import java.util.List;
 
-class Node {
+public class Node {
     public int val;
     public List<Node> children;
 
