@@ -1,3 +1,5 @@
+package com.murmylo.volodymyr;
+
 import com.murmylo.volodymyr.NaryTreePreorderTraversal;
 import com.murmylo.volodymyr.structures.Node;
 import org.junit.jupiter.api.Test;

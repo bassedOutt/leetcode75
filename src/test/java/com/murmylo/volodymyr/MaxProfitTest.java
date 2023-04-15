@@ -1,3 +1,5 @@
+package com.murmylo.volodymyr;
+
 import com.murmylo.volodymyr.MaxProfit;
 import org.junit.jupiter.api.Test;
 
