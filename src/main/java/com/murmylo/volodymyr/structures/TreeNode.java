@@ -25,4 +25,21 @@ public class TreeNode {
                 "val=" + val +
                 '}';
     }
+
+    public static TreeNode createBinaryTreeFromArray(Integer[] arr) {
+        return createNodeFromArray(arr, 0);
+    }
+
+    private static TreeNode createNodeFromArray(Integer[] arr, int index) {
+        if (index >= arr.length || arr[index] == null) {
+            return null;
+        }
+
+        TreeNode node = new TreeNode(arr[index]);
+        node.left = createNodeFromArray(arr, 2 * index + 1);
+        node.right = createNodeFromArray(arr, 2 * index + 2);
+
+        return node;
+    }
 }
+

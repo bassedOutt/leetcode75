@@ -1,6 +1,6 @@
 package com.murmylo.volodymyr;
 
-import com.murmylo.volodymyr.IsValidBST;
+import com.murmylo.volodymyr.trees.IsValidBST;
 import com.murmylo.volodymyr.structures.TreeNode;
 import org.junit.jupiter.api.Test;
 
