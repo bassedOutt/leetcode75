@@ -1,2 +1,2 @@
-# leetcode75
-My solutions for Leetcode 75 
+leetcode
+My solutions for Leetcode prolems
