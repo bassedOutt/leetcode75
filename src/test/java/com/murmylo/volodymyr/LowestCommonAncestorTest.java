@@ -1,6 +1,6 @@
 package com.murmylo.volodymyr;
 
-import com.murmylo.volodymyr.LowestCommonAncestor;
+import com.murmylo.volodymyr.trees.LowestCommonAncestor;
 import com.murmylo.volodymyr.structures.TreeNode;
 import org.junit.jupiter.api.Test;
 

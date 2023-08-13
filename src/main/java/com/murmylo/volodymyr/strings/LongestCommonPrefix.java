@@ -1,4 +1,4 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.strings;
 
 import java.util.Arrays;
 import java.util.OptionalInt;

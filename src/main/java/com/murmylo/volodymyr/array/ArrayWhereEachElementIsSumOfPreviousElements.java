@@ -1,4 +1,4 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.array;
 
 import java.util.Arrays;
 

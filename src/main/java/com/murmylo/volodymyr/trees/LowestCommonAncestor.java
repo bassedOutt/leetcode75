@@ -1,4 +1,4 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.trees;
 
 import com.murmylo.volodymyr.structures.TreeNode;
 

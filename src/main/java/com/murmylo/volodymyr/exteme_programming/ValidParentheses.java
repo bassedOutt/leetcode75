@@ -1,4 +1,4 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.exteme_programming;
 
 import java.util.Map;
 import java.util.Stack;

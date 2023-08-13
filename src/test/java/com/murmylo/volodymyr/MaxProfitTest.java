@@ -1,6 +1,6 @@
 package com.murmylo.volodymyr;
 
-import com.murmylo.volodymyr.MaxProfit;
+import com.murmylo.volodymyr.array.MaxProfit;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

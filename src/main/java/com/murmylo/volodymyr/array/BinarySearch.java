@@ -1,4 +1,4 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.array;
 
 public class BinarySearch {
     public int search(int[] nums, int target) {

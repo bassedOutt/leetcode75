@@ -1,17 +1,18 @@
 package com.murmylo.volodymyr.plusone;
 
+import com.murmylo.volodymyr.array.PlusOne;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class SolutionTest {
+class PlusOneTest {
 
     @Test
     void plusOne() {
-        Solution solution = new Solution();
-        int[] ints = solution.plusOne(new int[]{1, 2, 3});
+        PlusOne plusOne = new PlusOne();
+        int[] ints = plusOne.plusOne(new int[]{1, 2, 3});
         assertEquals("[1 ,2 ,4]", Arrays.toString(ints));
     }
 }

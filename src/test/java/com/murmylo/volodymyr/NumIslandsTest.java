@@ -1,5 +1,6 @@
 package com.murmylo.volodymyr;
 
+import com.murmylo.volodymyr.search.NumIslands;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

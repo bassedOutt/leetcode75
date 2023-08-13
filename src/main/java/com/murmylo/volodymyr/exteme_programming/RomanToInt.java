@@ -1,4 +1,4 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.exteme_programming;
 
 public class RomanToInt {
     /**

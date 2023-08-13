@@ -1,8 +1,8 @@
-package com.murmylo.volodymyr.plusone;
+package com.murmylo.volodymyr.array;
 
 import java.util.Stack;
 
-class Solution {
+public class PlusOne {
     public int[] plusOneUsingStack(int[] digits) {
         Stack<Integer> stack = new Stack<>();
         boolean isZero = true;

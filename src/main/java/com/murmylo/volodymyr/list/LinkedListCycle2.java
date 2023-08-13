@@ -1,8 +1,8 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.list;
 
 import com.murmylo.volodymyr.structures.ListNode;
 
-public class LinkedListCycle {
+public class LinkedListCycle2 {
     public ListNode detectCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;

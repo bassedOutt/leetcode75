@@ -1,4 +1,4 @@
-package com.murmylo.volodymyr;
+package com.murmylo.volodymyr.search;
 
 import java.util.LinkedList;
 import java.util.Queue;
